@@ -19,7 +19,7 @@ fecha timestamp null,
 primary key (id));
 ```
 
-The column feche is also update when a successfull log in is made, but is not used for nothing else for now.
+The column fecha is also update when a successfull log in is made, but is not used for nothing else for now.
 
 # Author
 
