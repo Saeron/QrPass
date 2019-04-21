@@ -1,9 +1,9 @@
 <?php
 
-    define('HOST','localhost');
-    define('USER','root');
-    define('PASS','locoderemate');
-    define('DB','passqr');
+    define('HOST','yourhost');
+    define('USER','youruser');
+    define('PASS','yourpass');
+    define('DB','yourdb');
 
     function connect_db()
     {
