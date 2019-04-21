@@ -1,0 +1,17 @@
+<div class="principal">
+  <p class="intro">
+    Get your ticket here!!
+  </p>
+  <br>
+  <div class="mdl-textfield mdl-js-textfield extrawide">
+    <input [(ngModel)]="email" class="mdl-textfield__input" type="text" id="email">
+    <label class="mdl-textfield__label" for="email">youremail@mail.com</label>
+  </div>
+  <br>
+  <button (click)="getImage()" class="mdl-button mdl-js-button mdl-js-ripple-effect">Get Ticket</button>
+  <br>
+  <img *ngIf="imagen" [src]="imagen">
+  <img *ngIf="!imagen" src="//:0" id="null">
+  <br>
+  <button (click)="getIn()" class="mdl-button mdl-js-button mdl-js-ripple-effect">Get in</button>
+</div>
