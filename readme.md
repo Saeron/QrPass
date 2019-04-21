@@ -23,9 +23,10 @@ The column feche is also update when a successfull log in is made, but is not us
 
 # Author
 
-The author of this code is Antonio Gutiérrez Ojeda, and the code is distributed as a open source under GPLv3, so you are free to redistribute or modify under GPLv3, just please add a link to the original project.
+The author of this code is **Antonio Gutiérrez Ojeda**, and the code is distributed as a open source under GPLv3, so you are free to redistribute or modify under GPLv3, just please add a link to the original project.
 You can contact me to the email: antdcs@gmail.com
 
 Link to phpqrcode: http://phpqrcode.sourceforge.net/docs/html/index.html.
+
 Link to angular: https://angular.io/
 
