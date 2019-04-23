@@ -31,4 +31,4 @@ Link to phpqrcode: http://phpqrcode.sourceforge.net/docs/html/index.html.
 Link to angular: https://angular.io/
 
 # Demo alive
-If you just want to try how is working, you can find a demo online here : http://jdoit.online/qrCodeTPV/ . But please just understand this is a simple demo not a final product, It is only for demostration propose, don't use it on a real envairoment, I am not resposable of the problems you can have whit this.
+If you just want to try how is working, you can find a demo online here : https://jdoit.online/qrCodeTPV/ . But please just understand this is a simple demo not a final product, It is only for demostration propose, don't use it on a real envairoment, I am not resposable of the problems you can have whit this.
